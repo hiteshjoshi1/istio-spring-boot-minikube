@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: kayak-app
-          image: hiteshjoshi1/demo-app:1.0
+          image: hiteshjoshi1/demo-app-auth:1.0
           imagePullPolicy: Always
           env:
             - name: MONGODB_HOST
