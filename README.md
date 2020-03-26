@@ -1,5 +1,6 @@
 # Spring Boot Microservice example with Istio
 
+Base Branch without OAuth
 This uses Spring webflux but in concepts are same for any REST based on Spring boot.
 
 Based on -
